@@ -8,7 +8,7 @@ Notebooks from IBM Advanced Data Science Specialization on Coursera.
 </p>
 
 --- 
-<a href="https://www.youracclaim.com/org/ibm/badge/advanced-data-science-specialist.1">
+<a href="https://www.youracclaim.com/badges/047a9b27-50f3-4519-8d69-83ebd0bd86de">
     <img src="Specialization+Certificate+Emblem+-+AADS+-++Final.png" width="300" align="center">
 </a>
 --- 
