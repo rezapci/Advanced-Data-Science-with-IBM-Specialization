@@ -2,7 +2,7 @@
 | :- |-------------: | :-:
 |Reza Hashemi| Advanced-Data-Science-with-IBM-Specialization    | Starts on 23rd of May 2019 |
 
-<h1 align="center">IBM Advanced Data Science Specialization</h1>
+<h1 align="center">IBM Advanced Data Science Specialization 🤖</h1>
 <p align="center">
 Notebooks from IBM Advanced Data Science Specialization on Coursera.
 </p>
